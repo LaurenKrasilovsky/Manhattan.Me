@@ -1,0 +1,73 @@
+/* accommodations */
+/* .first {
+  display: flex;
+  justify-content: center;
+  justify-content: space-between;
+
+} */
+
+.top {
+  text-align: center;
+  margin-bottom: 60px;
+  background-color: white;
+  margin-left: 100px;
+  margin-right: 100px;
+}
+
+
+.nav {
+  display: flex;
+  margin-bottom: 20px;
+  font-size: 20px;
+  justify-content: space-around;
+  background-color: black;
+  color: white;
+  padding: 15px;
+}
+a {
+  color: white;
+  font-family: 'Cormorant Garamond', serif;
+}
+a:link {
+  text-decoration: none;
+}
+
+h2 {
+  font-size: 50px;
+  margin-bottom: 20px;
+}
+
+.blurb {
+  font-size: 20px;
+}
+
+.first{
+  display: flex;
+  justify-content: space-around;
+  margin: 100px;
+  margin-left: 150px;
+  margin-right: 150px;
+  background-color: peachpuff;
+  border: solid 8px black;
+}
+
+h4{
+  display: block;
+}
+
+.paragraph {
+  display: block;
+  width: 300px;
+}
+body {
+background-image: url(empire.jpg);
+/* background-repeat: no-repeat; */
+/* background-size: 1500px 1000px; */
+}
+
+img{
+  margin-right: 10%;
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+}
