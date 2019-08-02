@@ -4,11 +4,17 @@
   box-sizing: border-box;
 }
 
-
-
 .twitter {
   display: flex;
   flex-direction: row;
+  justify-content: space-around;
+}
+
+blockquote {
+  /* max-width: 200px;
+  min-width: 150px;
+  max-height: 200px; */
+  height: 20% !important;
 }
 
 .home {
